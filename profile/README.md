@@ -1,5 +1,7 @@
-# Memory Dynamics          <img width="256" height="256" alt="MemoryDynamics" src="https://github.com/user-attachments/assets/415e15b5-454d-4ec3-876b-9ae9fba9ea4f" />
-
+<p align="center">
+  <img width="256" height="256" alt="MemoryDynamics" src="https://github.com/user-attachments/assets/415e15b5-454d-4ec3-876b-9ae9fba9ea4f" />
+</p>
+  
 **We explore how memory transforms randomness into structure, intelligence, and physical reality.**
 
 Memory Dynamics is an open research organization investigating how simple event‑based processes, when coupled through memory and feedback, generate complex behavior across multiple scales.
