@@ -14,7 +14,7 @@ Memory Dynamics is an open research organization investigating how simple event�
 - **Memory‑driven complex systems** — Feedback loops that turn noise into order.
 - **Artificial intelligence** — Memory as a driver of adaptive behavior.
 - **Computational physics** — Minimal models for emergent physical laws.
-- **Robotics & adaptive systems** — Embodied tests of memory‑based emergence.
+- perspectively: **Robotics & adaptive systems** — Embodied tests of memory‑based emergence.
 
 ---
 
