@@ -1,6 +1,3 @@
-<p align="center">
-  <img width="256" height="256" alt="MemoryDynamics" src="https://github.com/user-attachments/assets/415e15b5-454d-4ec3-876b-9ae9fba9ea4f" />
-</p>
 
 <p align="center">
   <a href="https://github.com/MemoryDynamics/Knoten">
@@ -43,3 +40,7 @@ Share results openly.
 
 We welcome discussions, ideas, and contributions.  
 Follow our experiments, open issues, or start a conversation.
+
+<p align="center">
+  <img width="256" height="256" alt="MemoryDynamics" src="https://github.com/user-attachments/assets/415e15b5-454d-4ec3-876b-9ae9fba9ea4f" />
+</p>
