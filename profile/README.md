@@ -1,6 +1,12 @@
 <p align="center">
   <img width="256" height="256" alt="MemoryDynamics" src="https://github.com/user-attachments/assets/415e15b5-454d-4ec3-876b-9ae9fba9ea4f" />
 </p>
+
+<p align="center">
+  <a href="https://github.com/MemoryDynamics/Knoten">
+    <img width="960" alt="Memory-driven dynamical knots" src="https://raw.githubusercontent.com/MemoryDynamics/Knoten/main/figures/external/emergenz-knoten-key-visual-two-trajectories.png" />
+  </a>
+</p>
   
 **We explore how memory transforms randomness into structure, intelligence, and physical reality.**
 
